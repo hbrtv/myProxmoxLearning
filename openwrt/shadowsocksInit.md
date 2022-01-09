@@ -1,3 +1,4 @@
+# 不使用luci界面，从shadowsocks-openwrt的初始化脚本中提炼出来的启动脚本
 ## [URL](https://gist.github.com/stackia/0c83f9ca66cdc010be48840ee5b0a09c)
 ### shadowsocks
     #!/bin/sh /etc/rc.common
